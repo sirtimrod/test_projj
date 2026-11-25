@@ -1,2 +1,5 @@
-services=['dns_shop', 'wwwdnsshopru_two']
+services=[
+    # 'dns_shop',
+    'wwwdnsshopru_two',
+]
 attack = 0
